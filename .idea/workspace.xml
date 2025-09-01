@@ -5,30 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5584ba0-e742-4bd3-8b94-eeb7d5aff5d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/LabAssignments_1/ATMsimpulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/LabAssignments_1/breakifinputistrue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/LabAssignments_1/count_ch_in_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/LabAssignments_1/fibonaccisumof2digit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/LabAssignments_1/grading_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/LabAssignments_1/multiplicationTable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/LabAssignments_1/postive_negative_zero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/LabAssignments_1/printSquare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/LabAssignments_1/reverse_a_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/LabAssignments_1/skipnumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/LabAssignments_1/sumofNnumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/LabAssignments_1/sumofdigits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/LabAssignments_1/vowel_consonant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments/LabAssignments_1/vowelsinword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/breakandcontinue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/forloop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/matchstatement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/rangefunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/whileloop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +79,7 @@
     "last_opened_file_path": "C:/PWPython"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.count_ch_in_word">
+  <component name="RunManager" selected="Python.practice (1)">
     <configuration name="ATMsimpulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PWPython" />
       <option name="ENV_FILES" value="" />
@@ -170,28 +146,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibonaccisumof2digit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PWPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments/LabAssignments_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/LabAssignments_1/fibonaccisumof2digit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PWPython" />
       <option name="ENV_FILES" value="" />
@@ -206,6 +160,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practice (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PWPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5/practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.practice (1)" />
         <item itemvalue="Python.count_ch_in_word" />
         <item itemvalue="Python.ATMsimpulator" />
         <item itemvalue="Python.skipnumbers" />
         <item itemvalue="Python.breakifinputistrue" />
-        <item itemvalue="Python.fibonaccisumof2digit" />
       </list>
     </recent_temporary>
   </component>
