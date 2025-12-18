@@ -18,8 +18,8 @@
 # print(z*3)
 
 # #Boolea Trickery
-# value1=bool(input("enter True"))
-# value2=bool(input("enter False"))
+# value1=bool(input("enter True: "))
+# value2=bool(input("enter False: "))
 # print(value1 and value2)
 # print(value1 or value2)
 # print(not value1)
@@ -35,12 +35,21 @@
 # print(not value2)
 
 # Final Price Calculator
-item_price = float(input("Enter the amount of item: " ))
-GST_percentage = float(input("Enter the GST percentage: "))
-Discount_percentage = float(input("Enter the Discount percentage: "))
+# item_price = float(input("Enter the amount of item: " ))
+# GST_percentage = float(input("Enter the GST percentage: "))
+# Discount_percentage = float(input("Enter the Discount percentage: "))
+#
+# GST_amount = (item_price * GST_percentage)/100
+# Discount_amount = (item_price * Discount_percentage)/100
+#
+# Final_Price = (item_price + GST_amount) - Discount_amount
+# print(Final_Price)
 
-GST_amount = (item_price * GST_percentage)/100
-Discount_amount = (item_price * Discount_percentage)/100
+item_price = float(input("Enter the amount of product: "))
+gst_per = float(input("enter the gst %: "))
+discount_per = float(input("Enter the discount %: "))
 
-Final_Price = (item_price + GST_amount) - Discount_amount
-print(Final_Price)
+gst_amount = (item_price*gst_per)/100
+discount_amount = (item_price*discount_per)/100
+final_price = (item_price + gst_amount) - discount_amount
+print(("Final price of product is: ", final_price))
