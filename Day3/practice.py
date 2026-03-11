@@ -45,14 +45,38 @@ from time import process_time_ns
 #     print("Ticket price is 120")
 
 # Fitness App — BMI Calculator
-weight = float(input("Enter your weight: "))
-height = float(input("Enter your height: "))
-BMI = weight/(height*height)
-if BMI <18.5:
-    print("Underwight!!")
-elif BMI >=18.5 and BMI <24.9:
-    print("Normal")
-elif BMI >= 25 and BMI <= 29.9:
-    print("Overweight")
+# weight = float(input("Enter your weight: "))
+# height = float(input("Enter your height: "))
+# BMI = weight/(height*height)
+# if BMI <18.5:
+#     print("Underwight!!")
+# elif BMI >=18.5 and BMI <24.9:
+#     print("Normal")
+# elif BMI >= 25 and BMI <= 29.9:
+#     print("Overweight")
+# else:
+#     print("Obese!!!")
+
+# num=int(input("Enter a number:"))
+# if num%2==0:
+#     print("even")
+# else:
+#     print("odd")
+
+amount = int(input("Enter the amount: "))
+discount = 0
+
+if amount > 10000:
+    discount = amount*20/100
+    final_amount = amount - discount
+    print("The amount you have to pay after 20% discount is:", final_amount)
+elif 5000 < amount <= 10000:
+    discount = amount*10/100
+    final_amount = amount - discount
+    print("The amount you have to pay after 10% discount is:", final_amount)
+elif 1000 < amount <= 5000:
+    discount = amount*5/100
+    final_amount = amount - discount
+    print("The amount you have to pay after 5% discount is:", final_amount)
 else:
-    print("Obese!!!")
+    print("There's no discount for your amount:", amount)
